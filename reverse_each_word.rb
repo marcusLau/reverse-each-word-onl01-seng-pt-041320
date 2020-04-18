@@ -1,4 +1,4 @@
-def reverse_each_word(str)
+def reverse_each_word(sentence)
   # rev_str = str.reverse.split(" ")
   
   words_array = sentence.split(" ")
